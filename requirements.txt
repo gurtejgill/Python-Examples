@@ -1,0 +1,13 @@
+#package names list to be installed in virtual
+
+#commands to set up a virtual environment and install packages from req file are as following
+#python -m venv venv   ---this creates a virtual environment in a folder named venv
+#.\venv\Scrips\activate.ps1  ---this activates the virtual environment(command could be different for different OS)
+#pip install -r requirements.txt  ---this installs the packages listed in requirements.txt
+#deactivate   ---this deactivates the virtual environment
+
+#use the following link to know how to format the requirements file
+#https://pip.pypa.io/en/stable/reference/pip_install/#requirements-file-format
+
+numpy
+#matplotlib
