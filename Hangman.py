@@ -71,7 +71,7 @@ while turns > 0:
     # if the guess is not found in the secret word
     if guess not in word:  
  
-     # turns counter decreases with 1 (now 9)
+     # turns counter decreases with 1 
         turns -= 1        
  
     # print wrong
