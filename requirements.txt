@@ -9,5 +9,5 @@
 #use the following link to know how to format the requirements file
 #https://pip.pypa.io/en/stable/reference/pip_install/#requirements-file-format
 
-numpy
+#numpy
 #matplotlib
